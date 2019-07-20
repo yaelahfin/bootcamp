@@ -1,0 +1,33 @@
+nav{
+  box-shadow: 0px 0px 10px 5px #737373;
+}
+
+a > img {
+width: 100px;
+height: 60px;
+}
+h1{
+  margin-right: auto;
+}
+
+#add{
+  margin-left: auto;
+  margin-top: 100px;
+  height: 50px;
+  width: 100px;
+}
+
+button[class=bg-light]{
+  border:0px;
+  
+}
+
+.modal-body >input{
+  margin-top:40px !important;
+  height: 60px;
+}
+
+.delete,.edit{
+  background-color: #f8f9fa;
+  border:0;
+}
